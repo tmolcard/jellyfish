@@ -1,6 +1,6 @@
 import unicodedata
 from collections import defaultdict
-from itertools import zip_longest
+from itertools import izip_longest
 from .porter import Stemmer
 
 
